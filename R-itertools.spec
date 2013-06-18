@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.1_1
-Release:          1
+Release:          2
 Summary:          Iterator Tools
 Group:            Sciences/Mathematics
 License:          GPL-2
